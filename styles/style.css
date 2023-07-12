@@ -16,7 +16,7 @@ body{
     height: 97vh;
     /* background-color: blue; */
     /* background-color: orange; */
-    background-image: rbga(0,0,0,0.8), url("/images/IMG_0077.jpeg");    
+    background-image: rbga(0,0,0), url("/images/IMG_0077.jpeg");    
     background-size: cover;
     background-position: bottom;
     /* background-blend-mode: multiply; */
