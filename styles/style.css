@@ -14,6 +14,8 @@ body{
 .hero-section{
     width: 100%;
     height: 97vh;
-    background-color: orange;
-    /* background: rgba(0,0,0,0.3), url("https://templatemo.com/templates/templatemo_588_ebook_landing/images/businessman-sitting-by-table-cafe.jpg"); */
+    /* background-color: orange; */
+    background: rgba(0,0,0,0.3), url("https://templatemo.com/templates/templatemo_588_ebook_landing/images/businessman-sitting-by-table-cafe.jpg");
+    background-size: cover;
+    background-position: bottom;
 }
