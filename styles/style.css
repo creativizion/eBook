@@ -16,7 +16,7 @@ body{
     height: 97vh;
     background-color: black;
     /* background-color: orange; */
-    background-image: url("https://templatemo.com/templates/templatemo_588_ebook_landing/images/businessman-sitting-by-table-cafe.jpg");    
+    background-image: url(https://templatemo.com/templates/templatemo_588_ebook_landing/images/businessman-sitting-by-table-cafe.jpg);    
     background-size: cover;
     background-position: bottom;
     background-blend-mode: multiply;
